@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Track My Metro</string>
+    <string name="signed_out">sign Out</string>
+    <string name="google_status_fmt">Current User</string>
+    <string name="firebase_status_fmt">FireBase Uid</string>
 </resources>
